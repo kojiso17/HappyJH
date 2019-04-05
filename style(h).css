@@ -34,7 +34,7 @@
       color: black;
       text-decoration: none;
     }
-   @media(max-width: 800px){
+   @media(max-width: 80px){
         #grid{
           display : block;
         }
